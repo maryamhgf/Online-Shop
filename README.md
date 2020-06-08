@@ -3,7 +3,7 @@ Implementation domain of mobile, car, and TV online shop in C++.
 
 ***You can see all commands in the in.txt file and all outputs in out.txt file***
 
-There are three main role in this shop: admin, sellers, and buyers. Admin can put cars, mobiles, TVs available in the shop. Sellers can offer amount and prices on available products or give discount codes to buyers. Buyers can see all products and offered prices, then buy them. Also, they should charge their accounts. Also, when a user is logged in, no one can login and an error will be shown.
+There are three main roles in this shop: admin, sellers, and buyers. Admin can put cars, mobiles, TVs available in the shop. Sellers can offer amount and prices on available products or give discount codes to buyers. Buyers can see all products and offered prices, then buy them. Also, they should charge their accounts. Also, when a user is logged in, no one can login and an error will be shown.
 
 1. Products: There are three types: mobiles, cars, and TVs. All information about them are in .csv files.
 
